@@ -108,10 +108,10 @@ If a process has multiple segments and any segment cannot be allocated, the enti
 
 Run them: `python test_cases.py`
 
-## 👥 Authors
+##  Authors
 
 - Operating Systems Course — University Project
 
-## 📄 License
+##  License
 
 This project is for educational purposes.
